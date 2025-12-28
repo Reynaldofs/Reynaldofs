@@ -49,7 +49,7 @@ Laboratório prático focado na análise de eventos de autenticação em Linux u
 ---
 
 ## 📫 Contato
-- 💼 LinkedIn: https://www.linkedin.com/in/reynaldo-fraga-sales-6b1a86231  
+- 💼 LinkedIn: https://www.linkedin.com/in/reynaldofragasales/  
 - 📧 Email: sales3373@gmail.com  
 
 ---
